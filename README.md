@@ -40,6 +40,7 @@ easy_install CairoSVG tinycss cssselect pygal <br>
 Clone the git repository <br>
 
 git clone https://github.com/alejo0317/GeneOntology-Python.git
+http://nazkter.xyz/optimizar-wordpress-pagespeed-insights/
 
 <h3> Configure database </h3>
 
